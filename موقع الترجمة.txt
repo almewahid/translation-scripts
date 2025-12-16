@@ -1,0 +1,13 @@
+
+
+
+
+# حمّل السكريبتات
+git clone https://github.com/almewahid/translation-scripts
+
+# انسخها للمشروع
+cd your-new-project
+cp ../translation-scripts/*.py .
+
+# استخدمها
+python extract_texts.py
